@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Jiancong Ma"
-description              : " "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Personal website of Jiancong Ma, showcasing research, projects, and achievements."
+repository               : "mjc030225/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "JC Ma"
+  name             : "Jiancong Ma"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Northwestern Polytechnical University"
   location         : "Xi'an, China"
