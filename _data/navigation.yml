@@ -14,12 +14,6 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
-
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-  - title: "My Learning Step"
-    url: "/#-My Learning Step"
-
-
+    
   - title: "Internships"
     url: "/#-internships"
