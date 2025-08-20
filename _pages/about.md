@@ -34,7 +34,7 @@ My research interest includes machine learning and computer vision. <a href='htt
 
 **Jiancong Ma**, Bo Li, Hanxi Li, Siying Meng, Ruitao Lu, Shaohui Mei
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8rInnIIAAAAJ&citation_for_view=8rInnIIAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/Band-127/Pyramid-Mamba-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -  
 </div>
 </div>
