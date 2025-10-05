@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I got my B.E degree in Eletronic and Information Engineering in Xi'an, Shannxi Province, China. I am currently pursuing my master degree in United Arab Emirates University (UAEU), Al Ain, UAE. My advisor is [Dr. Shengcai Liao](https://shengcailiao.github.io). 
+I got my B.E degree in Eletronic and Information Engineering in Northwestern Polytechnical University, Shannxi Province, China. I am currently pursuing my master degree in United Arab Emirates University (UAEU), Al Ain, UAE. My advisor is [Dr. Shengcai Liao](https://shengcailiao.github.io). 
 
-My research interest includes computer vision, pattern analysis and video(image) generation. <a href='https://scholar.google.com/citations?user=8rInnIIAAAAJ'><img src="https://img.shields.io/endpoint?url={{https://scholar.google.com/citations?user=8rInnIIAAAAJ}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interest includes computer vision, video (image) generation and Multimodal LLMs. <a href='https://scholar.google.com/citations?user=8rInnIIAAAAJ'><img src="https://img.shields.io/endpoint?url={{https://scholar.google.com/citations?user=8rInnIIAAAAJ}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
