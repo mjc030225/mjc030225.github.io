@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I got my B.E degree in Eletronic and Information Engineering, in Northwestern Polytechnical University, Shannxi Province, China. My undergraduate supervisor is [Dr. Bo Li](https://teacher.nwpu.edu.cn/libo.html).I am currently pursuing my Master degree in United Arab Emirates University (UAEU), Al Ain, UAE. My current supervisor is [Dr. Shengcai Liao](https://shengcailiao.github.io), IEEE/IAPR fellow. 
+I got my B.E degree in Eletronic and Information Engineering, in Northwestern Polytechnical University, Shannxi Province, China. My undergraduate supervisor is [Dr. Bo Li](https://teacher.nwpu.edu.cn/libo.html). I am currently pursuing my Master degree in United Arab Emirates University (UAEU), Al Ain, UAE. My current supervisor is [Dr. Shengcai Liao](https://shengcailiao.github.io), IEEE/IAPR fellow. 
 
 My research interest includes computer vision, video (image) generation and Multimodal LLMs. <a href='https://scholar.google.com/citations?user=8rInnIIAAAAJ'><img src="https://img.shields.io/endpoint?url={{https://scholar.google.com/citations?user=8rInnIIAAAAJ}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
