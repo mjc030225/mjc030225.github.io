@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I got my B.E degree in Eletronic and Information Engineering in Northwestern Polytechnical University, Shannxi Province, China. I am currently pursuing my master degree in United Arab Emirates University (UAEU), Al Ain, UAE. My advisor is [Dr. Shengcai Liao](https://shengcailiao.github.io). 
+I got my B.E degree in Eletronic and Information Engineering, in Northwestern Polytechnical University, Shannxi Province, China. My undergraduate supervisor is [Dr. Bo Li](https://teacher.nwpu.edu.cn/libo.html).I am currently pursuing my Master degree in United Arab Emirates University (UAEU), Al Ain, UAE. My current supervisor is [Dr. Shengcai Liao](https://shengcailiao.github.io), IEEE/IAPR fellow. 
 
 My research interest includes computer vision, video (image) generation and Multimodal LLMs. <a href='https://scholar.google.com/citations?user=8rInnIIAAAAJ'><img src="https://img.shields.io/endpoint?url={{https://scholar.google.com/citations?user=8rInnIIAAAAJ}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
-
+**[2025.07]** One paper is accepted by JSTARS 2025!
 
 # 📝 Publications 
 
@@ -34,19 +34,17 @@ My research interest includes computer vision, video (image) generation and Mult
 
 **Jiancong Ma**, Bo Li, Hanxi Li, Siying Meng, Ruitao Lu, Shaohui Mei
 
-[**Project**](https://github.com/Band-127/Pyramid-Mamba-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code Repo**](https://github.com/Band-127/Pyramid-Mamba-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -  
 </div>
 </div>
 
-# 🎖 Honors and Awards
-
 
 # 📖 Educations
-- *2021.09 - 2025.06*, School of electronic and Information, Northwestern Polytechnical University, Xi'an, China.
+- *2021.09 - 2025.06*, School of Electronic and Information, Northwestern Polytechnical University, Xi'an, China.
 
 - *2025.08 - (now)*, College of Information Technology, United Arab Emirates University, Al Ain, UAE.
 
-# 💻 Internships
+<!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
