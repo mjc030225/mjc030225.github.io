@@ -16,12 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# Hi, about me
 
-I received my B.E. degree in Electronic and Information Engineering from Northwestern Polytechnical University (NPU), Xi’an, Shaanxi Province, China, under the supervision of [**Dr. Bo Li**](https://teacher.nwpu.edu.cn/libo.html).  
+I received my B.Eng degree in Electronic and Information Engineering from Northwestern Polytechnical University (NPU), Xi’an, Shaanxi Province, China, under the supervision of [**Dr. Bo Li**](https://teacher.nwpu.edu.cn/libo.html).  
 
 I am currently pursuing my M.Sc. degree at the United Arab Emirates University (UAEU), Al Ain, UAE, under the supervision of [**Dr. Shengcai Liao**](https://shengcailiao.github.io), **IEEE/IAPR Fellow**.  
 
-My research interests include *computer vision*, *video and image generation*, and *multimodal large language models (LLMs)*.  
+My research interests include *computer vision*, *video and image generation*, and *multimodal large language models (MLLMs)*. 
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-9cf?logo=google-scholar&labelColor=f6f6f6&style=flat)](https://scholar.google.com/citations?user=8rInnIIAAAAJ)
 
