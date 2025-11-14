@@ -21,7 +21,7 @@ This is Jiancong Ma from Nanjing, Jiangsu Province, China.
 
 I received my B.Eng degree in Electronic and Information Engineering from Northwestern Polytechnical University (NPU), Xi’an, Shaanxi Province, China, under the supervision of [**Dr. Bo Li**](https://teacher.nwpu.edu.cn/libo.html).  
 
-I am currently pursuing my M.Sc. degree at the United Arab Emirates University (UAEU), Al Ain, UAE, under the supervision of [**Dr. Shengcai Liao**](https://shengcailiao.github.io), **IEEE/IAPR Fellow**. 
+I am currently 1st year Master student, pursuing my M.Sc degree at the United Arab Emirates University (UAEU), Al Ain, UAE, under the supervision of [**Dr. Shengcai Liao**](https://shengcailiao.github.io), **IEEE/IAPR Fellow**. 
 
 ---
 During my undergraduate studies, I engaged in research on remote sensing image processing and computer vision. Currently, my research interests lie in *visual generation* and *multimodal large language models* **(MLLMs)**. 
@@ -56,7 +56,7 @@ During my undergraduate studies, I engaged in research on remote sensing image p
 <!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# :telephone: Contact
+# 📬: Contact
 Please feel free to contact!
 <p align="center">
   <a href="mailto:mjc030225@gmail.com" style="text-decoration:none;">
