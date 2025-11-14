@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# :book: Hi, about me
+# 👋 Hi, about me
 This is Jiancong Ma from Nanjing, Jiangsu Province, China.
 
 I received my B.Eng degree in Electronic and Information Engineering from Northwestern Polytechnical University (NPU), Xi’an, Shaanxi Province, China, under the supervision of [**Dr. Bo Li**](https://teacher.nwpu.edu.cn/libo.html).  
@@ -56,7 +56,7 @@ During my undergraduate studies, I engaged in research on remote sensing image p
 <!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 📬: Contact
+# 📧 Contact
 Please feel free to contact!
 <p align="center">
   <a href="mailto:mjc030225@gmail.com" style="text-decoration:none;">
