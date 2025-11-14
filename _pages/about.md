@@ -16,13 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Hi, about me
+# :book: Hi, about me
+This is Jiancong Ma from Nanjing, Jiangsu Province, China.
 
 I received my B.Eng degree in Electronic and Information Engineering from Northwestern Polytechnical University (NPU), Xi’an, Shaanxi Province, China, under the supervision of [**Dr. Bo Li**](https://teacher.nwpu.edu.cn/libo.html).  
 
-I am currently pursuing my M.Sc. degree at the United Arab Emirates University (UAEU), Al Ain, UAE, under the supervision of [**Dr. Shengcai Liao**](https://shengcailiao.github.io), **IEEE/IAPR Fellow**.  
+I am currently pursuing my M.Sc. degree at the United Arab Emirates University (UAEU), Al Ain, UAE, under the supervision of [**Dr. Shengcai Liao**](https://shengcailiao.github.io), **IEEE/IAPR Fellow**. 
 
-My research interests include *computer vision*, *video and image generation*, and *multimodal large language models (MLLMs)*. 
+---
+During my undergraduate studies, I engaged in research on remote sensing image processing and computer vision. Currently, my research interests lie in *visual generation* and *multimodal large language models* **(MLLMs)**. 
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-9cf?logo=google-scholar&labelColor=f6f6f6&style=flat)](https://scholar.google.com/citations?user=8rInnIIAAAAJ)
 
@@ -54,3 +56,13 @@ My research interests include *computer vision*, *video and image generation*, a
 <!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
+# :telephone: Contact
+Please feel free to contact!
+<p align="center">
+  <a href="mailto:mjc030225@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Personal-mjc030225@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:700050058@uaeu.ac.ae" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/School-700050058@uaeu.ac.ae-6B8E23?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
